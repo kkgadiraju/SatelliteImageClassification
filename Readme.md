@@ -17,4 +17,5 @@ Outcomes of the best classifier (Multi Layer Perceptron) are as shown below:
 |vegetation: green |
 |water: blue |
 
+!["Original LANDSAT 8 Image during Flooding"](./OriginalImage.JPG?raw=true "Original LANDSAT 8 Image during Flooding")
 !["Multi Layer Perceptron Classification"](./mlpf1.JPG?raw=true "Multi Layer Perceptron Classification")
