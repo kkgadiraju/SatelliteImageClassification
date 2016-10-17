@@ -18,4 +18,4 @@ Outcomes of the best classifier (Multi Layer Perceptron) are as shown below:
 |vegetation      | green |
 |water      | blue |
 
-![Alt text](mlpf1.jpg?raw=true "Multi Layer Perceptron Classification")
+![Alt text](mlpf1.JPG?raw=true "Multi Layer Perceptron Classification")
