@@ -12,7 +12,8 @@ library(rgdal)
 library(rgeos)
 library(foreign)
 
-data.all <- read.csv('may28TrainingAllBandsFinal.csv')
+data.all <- read.csv('may28TrainingAllBandsFinal.csv') #contains all sampled points generated using
+#point sampling tool in QGIS
 
 x2 <- sample(1:nrow(data.all),nrow(data.all),replace=F)
 data.all <- data.all[x2,]
