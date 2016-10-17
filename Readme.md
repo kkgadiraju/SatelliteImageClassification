@@ -10,10 +10,10 @@ Outcomes of the best classifier (Multi Layer Perceptron) are as shown below:
 
 To compile and run SatelliteClassification.java, you need weka.jar that you can download from the Weka website.
 
-'''
+```
 Compile code:  javac -cp weka.jar SatelliteClassification.java  
 Run code: java -cp weka.jar:. SatelliteClassification  "trainingFile" "testingFile" "classifiername"
-'''
+```
 
 - order: 
 
