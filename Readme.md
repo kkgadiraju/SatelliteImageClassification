@@ -9,13 +9,12 @@ Pixel based classification of satellite imagery
 Outcomes of the best classifier (Multi Layer Perceptron) are as shown below:
 
 - order: 
-| Label        | Color           |
-| ------------- |:-------------:| 
-|clouds      | white | 
-|roads      | yellow |
-|shadow      | black |
-|urban      | pink |
-|vegetation      | green |
-|water      | blue |
 
-![Alt text](mlpf1.JPG?raw=true "Multi Layer Perceptron Classification")
+|clouds: white | 
+|roads: yellow |
+|shadow: black |
+|urban: pink |
+|vegetation: green |
+|water: blue |
+
+!["Multi Layer Perceptron Classification"](./mlpf1.JPG?raw=true "Multi Layer Perceptron Classification")
