@@ -4,6 +4,7 @@ Pixel based classification of satellite imagery
 - feature generation using Orfeo Toolbox
 - feature selection using Learning Vector Quantization
 - CLassification using Decision Tree, Neural Networks, Random Forests, KNN and Naive Bayes Classifier
+- Ensemble classifier for Flood Inundation Mapping - classifies a pixel as water if 2 or more than 2 of the above classifiers classify a pixel as water
 - Classification accuracy to measure goodness of each model
 
 Outcomes of the best classifier (Multi Layer Perceptron) are as shown below:
