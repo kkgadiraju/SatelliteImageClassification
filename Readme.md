@@ -26,26 +26,40 @@ Run code: java -cp weka.jar:. SatelliteClassification  "trainingFile" "testingFi
 |vegetation: green |
 |water: blue |
 
-- Original LANDSAT 8 Image during Flooding
+<table width=100%>
+<tr>
+<th>
+Original LANDSAT 8 Image during Flooding
+</th>
+<th>
+Multi Layer Perceptron Classification
+</th>
+</tr>
+<tr>
+<th>
+<img src="OriginalImage.JPG" width="200" height ="400" alt="Original LANDSAT 8 Image during Flooding">
+</th>
+<th>
+<img src="mlpf1.JPG" width="200" height ="400" alt="Multi Layer Perceptron Classification">
+</th>
+</tr>
+<th>
+Ensemble Classifier: Water vs Everything, without filtering 
+</th>
+<th>
+ Ensemble Classifier: Water vs Everything, after mode filtering 
+</th>
+</tr>
+<tr>
+<th>
+<img src="beforeFilter.JPG" width="200" height ="400" alt="Ensemble Classifier">
+</th>
+<th>
+<img src="afterFilter.JPG" width="200" height ="400" alt="Ensemble Classifier - After Mode Filter">
+</th>
+</tr>
+</table>
 
-<img src="OriginalImage.JPG" width="500" height ="700" alt="Original LANDSAT 8 Image during Flooding">
-
-- Multi Layer Perceptron Classification
-
-<img src="mlpf1.JPG" width="500" height ="700" alt="Multi Layer Perceptron Classification">
-
-- MLP: Water vs Everything Else
-
-<img src="mlp.JPG" width="500" height ="700" alt="MLP: Water vs Everything else, zoomed to flooded region">
-
-- Ensemble Classifier
-
-<img src="beforeFilter.JPG" width="500" height ="700" alt="Ensemble Classifier">
-
-
-- Ensemble Classifier - After Mode Filter
-
-<img src="afterFilter.JPG" width="500" height ="700" alt="Ensemble Classifier - After Mode Filter">
 
 
 References:
