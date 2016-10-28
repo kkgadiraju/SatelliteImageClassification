@@ -32,20 +32,20 @@ Run code: java -cp weka.jar:. SatelliteClassification  "trainingFile" "testingFi
 
 - Multi Layer Perceptron Classification
 
-<img src="mlpf1.JPG" width="300" height ="200" alt="Multi Layer Perceptron Classification">
+<img src="mlpf1.JPG" width="500" height ="700" alt="Multi Layer Perceptron Classification">
 
 - MLP: Water vs Everything Else
 
-<img src="mlp.JPG" width="300" height ="200" alt="MLP: Water vs Everything else, zoomed to flooded region">
+<img src="mlp.JPG" width="500" height ="700" alt="MLP: Water vs Everything else, zoomed to flooded region">
 
 - Ensemble Classifier
 
-<img src="beforeFilter.JPG" width="300" height ="200" alt="Ensemble Classifier">
+<img src="beforeFilter.JPG" width="500" height ="700" alt="Ensemble Classifier">
 
 
 - Ensemble Classifier - After Mode Filter
 
-<img src="afterFilter.JPG" width="300" height ="200" alt="Ensemble Classifier - After Mode Filter">
+<img src="afterFilter.JPG" width="500" height ="700" alt="Ensemble Classifier - After Mode Filter">
 
 
 References:
