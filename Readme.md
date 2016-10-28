@@ -28,23 +28,24 @@ Run code: java -cp weka.jar:. SatelliteClassification  "trainingFile" "testingFi
 
 - Original LANDSAT 8 Image during Flooding
 
-!["Original LANDSAT 8 Image during Flooding"](./OriginalImage.JPG?raw=true "Original LANDSAT 8 Image during Flooding")
+<img src="OriginalImage.JPG" width="300" height ="200" alt="Original LANDSAT 8 Image during Flooding">
 
 - Multi Layer Perceptron Classification
 
-!["Multi Layer Perceptron Classification"](./mlpf1.JPG?raw=true "Multi Layer Perceptron Classification")
+<img src="mlpf1.JPG" width="300" height ="200" alt="Multi Layer Perceptron Classification">
 
 - MLP: Water vs Everything Else
 
-!["MLP: Water vs Everything Else"](./mlp.JPG?raw=true "MLP: Water vs Everything else, zoomed to flooded region")
+<img src="mlp.JPG" width="300" height ="200" alt="MLP: Water vs Everything else, zoomed to flooded region">
 
 - Ensemble Classifier
 
-!["Ensemble Classifier"](./beforeFilter.JPG?raw=true "Ensemble Classifier")
+<img src="beforeFilter.JPG" width="300" height ="200" alt="Ensemble Classifier">
+
 
 - Ensemble Classifier - After Mode Filter
 
-!["Ensemble Classifier - After Mode Filter"](./beforeFilter.JPG?raw=true "Ensemble Classifier - After Mode Filter")
+<img src="afterFilter.JPG" width="300" height ="200" alt="Ensemble Classifier - After Mode Filter">
 
 
 References:
