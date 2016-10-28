@@ -28,7 +28,7 @@ Run code: java -cp weka.jar:. SatelliteClassification  "trainingFile" "testingFi
 
 - Original LANDSAT 8 Image during Flooding
 
-<img src="OriginalImage.JPG" width="300" height ="200" alt="Original LANDSAT 8 Image during Flooding">
+<img src="OriginalImage.JPG" width="500" height ="700" alt="Original LANDSAT 8 Image during Flooding">
 
 - Multi Layer Perceptron Classification
 
